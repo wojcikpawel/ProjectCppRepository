@@ -13,3 +13,4 @@ Help:
 5) Rozszerzenia plików: https://pliki.org/rozszerzenie/h || https://www.reviversoft.com/pl/file-extensions/hpp
 6) https://www.geeksforgeeks.org/header-files-in-c-c-with-examples/
 7) https://infotraining.bitbucket.io/cpp-bs/oop-in-cpp.html
+8) SQLite for C/C++: https://www.tutorialspoint.com/sqlite/sqlite_c_cpp.htm#
