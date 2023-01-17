@@ -10,3 +10,4 @@ Help:
 2) https://cplusplus.com/
 3) https://codebeautify.org/
 4) https://www.w3schools.com/cpp/default.asp
+5) Rozszerzenia plików: https://pliki.org/rozszerzenie/h || https://www.reviversoft.com/pl/file-extensions/hpp
