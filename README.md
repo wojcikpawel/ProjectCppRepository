@@ -12,3 +12,4 @@ Help:
 4) https://www.w3schools.com/cpp/default.asp
 5) Rozszerzenia plików: https://pliki.org/rozszerzenie/h || https://www.reviversoft.com/pl/file-extensions/hpp
 6) https://www.geeksforgeeks.org/header-files-in-c-c-with-examples/
+7) https://infotraining.bitbucket.io/cpp-bs/oop-in-cpp.html
